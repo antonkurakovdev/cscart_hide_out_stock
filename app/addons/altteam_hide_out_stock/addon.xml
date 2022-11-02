@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+	<id>altteam_hide_out_stock</id>
+	<name>Alt-team: Stock filter</name>
+	<version>1.1.1</version>
+	<priority>2</priority>
+	<position>500</position>
+	<status>active</status>
+	<dependencies></dependencies>
+	<language_variables>
+	    <item lang="en" id="hide_out_stock">Hide out of stock products</item>
+	    <item lang="en" id="show_out_stock">Show out of stock products</item>
+	    <item lang="ru" id="hide_out_stock">Скрыть товары, которых нет в наличии</item>
+	    <item lang="ru" id="show_out_stock">Показывать товары, которых нет в наличии</item>
+	</language_variables>        
+</addon>
