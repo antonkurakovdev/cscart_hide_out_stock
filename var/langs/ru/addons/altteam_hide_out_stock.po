@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.net\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-07-22 06:00-0400\n"
+
+msgctxt "Addons::name::altteam_hide_out_stock"
+msgid "[Alt-Team] Stock filter"
+msgstr "[Alt-Team] Бонус Постоянным Клиентам"
+
+msgctxt "Addons::description::altteam_hide_out_stock"
+msgid "Adds a 'Show out of stock/Hide out of stock' button on a category page. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Добавляет кнопку 'Показать все товары/Скрыть товары', которых нет в наличии на станицах категорий. Разработано <a target="_blank" href="https://alt-team.ru/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_hide_out_stock::license_number"
+msgid "License number"
+msgstr "Номер лицензии"
+
+msgctxt "Languages::altteam_hide_out_stock.hide_out_stock"
+msgid "Hide out of stock products"
+msgstr "Скрыть товары, которых нет в наличии"
+
+msgctxt "Languages::altteam_hide_out_stock.show_out_stock"
+msgid "Show out of stock products"
+msgstr "Показывать товары, которых нет в наличии"

@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_hide_out_stock"
+msgid "[Alt-Team] Stock filter"
+msgstr "[Alt-Team] Stock filter"
+
+msgctxt "Addons::description::altteam_hide_out_stock"
+msgid "Adds a 'Show out of stock/Hide out of stock' button on a category page. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Adds a 'Show out of stock/Hide out of stock' button on a category page. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsOptions::altteam_hide_out_stock::license_number"
+msgid "License number"
+msgstr "License number"
+
+msgctxt "Languages::altteam_hide_out_stock.hide_out_stock"
+msgid "Hide out of stock products"
+msgstr "Hide out of stock products"
+
+msgctxt "Languages::altteam_hide_out_stock.show_out_stock"
+msgid "Show out of stock products"
+msgstr "Show out of stock products"
